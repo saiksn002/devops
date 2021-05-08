@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2020 Gamut Gurus Technologies. All rights Reserved.</footer>
+		<footer>@ 2021 mahesh Gurus Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
