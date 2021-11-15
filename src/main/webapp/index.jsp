@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>mahesh Gurus 2312323244rtrt Technologies - Exclusive DevOps & Cloud Learning Hub</title>
+<title>mahesh Gurus gfgfgfg Technologies - Exclusive DevOps & Cloud Learning Hub</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
