@@ -9,7 +9,7 @@ pipeline {
 //	}
 
     stages {
-		stage('Clone-Repo') {
+		stage('Clone-Repo -uat') {
 			steps {
 				checkout scm
 			}
