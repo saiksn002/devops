@@ -25,7 +25,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>maheshguru</finalName>
+		<finalName>devopsguru</finalName>
 	</build>
 	
 </project>
